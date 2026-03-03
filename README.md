@@ -1,2 +1,3 @@
 # A Bianca é uma gatinha
-# 2 a duda tbm é :()
+# a duda tbm é :()
+# Mas a Bia é mais
